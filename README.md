@@ -1,2 +1,2 @@
 # Dream
-Our favorite game. We build, Capture planets and of course rob korovans
+Our favorite game. We build, capture planets and of course rob korovans
